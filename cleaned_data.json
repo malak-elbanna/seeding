@@ -60793,7 +60793,41 @@
             },
             {
                 "name": "Aden",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "Cisterns of Tawila",
+                        "description": "Explore ancient water reservoirs that have supplied the city for centuries. Atlas Obscura",
+                        "travelerType": "History Buffs",
+                        "duration": "1-2 hours",
+                        "budgetUSD": "$10",
+                        "budgetDetails": "$5-10",
+                        "tips": "Visit early in the morning to avoid crowds and heat.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Tawila Tanks",
+                        "description": "Explore the ancient water reservoirs, also known as the Cisterns of Aden, built to collect and store rainwater.",
+                        "travelerType": "History Buffs",
+                        "duration": "1-2 hours",
+                        "budgetUSD": "$10",
+                        "budgetDetails": "$5-10",
+                        "tips": "Best visited early morning to avoid the heat.",
+                        "familyFriendly": "Yes",
+                        "category": "Explorers"
+                    },
+                    {
+                        "activity": "Aden Beach",
+                        "description": "Relax on the sandy shores and enjoy the coastal ambiance of this historical port city.",
+                        "travelerType": "Beach Lovers",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Bring sunscreen and refreshments as facilities might be limited.",
+                        "familyFriendly": "Yes",
+                        "category": "Newbies"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al Saeed",
@@ -61012,7 +61046,19 @@
             },
             {
                 "name": "Al Hudaydah",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "Culinary Experience at JUNEED",
+                        "description": "Indulge in traditional Yemeni cuisine at this local restaurant. Evendo",
+                        "travelerType": "Foodies",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$30",
+                        "budgetDetails": "$20-30",
+                        "tips": "Try local dishes like Saltah and Fahsa; check for opening hours.",
+                        "familyFriendly": "Yes",
+                        "category": "Foodies"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al Bahar",
@@ -61327,7 +61373,19 @@
             },
             {
                 "name": "Hadhramaut Region",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "Wadi Dawan",
+                        "description": "Explore the valley known for its dramatic cliffs and mudbrick villages, including Haid Al-Jazil.",
+                        "travelerType": "History Buffs",
+                        "duration": "Full day",
+                        "budgetUSD": "$100",
+                        "budgetDetails": "$50-100",
+                        "tips": "Hire a guide to navigate and learn about the region's history.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al Mukalla",
@@ -61533,7 +61591,19 @@
             },
             {
                 "name": "Marib",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "Marib Dam",
+                        "description": "Visit the ancient dam site, a testament to Yemen’s engineering heritage and a key source of irrigation in ancient times.",
+                        "travelerType": "History Buffs",
+                        "duration": "1-2 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Combine with other historical sites in Marib for a fuller experience.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al Qaem",
@@ -61730,7 +61800,85 @@
             },
             {
                 "name": "Sana'a",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "National Museum of Yemen",
+                        "description": "Learn about Yemen's rich history and cultural heritage. Tripadvisor",
+                        "travelerType": "History Buffs",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$10",
+                        "budgetDetails": "$5-10",
+                        "tips": "Check for any restoration works; photography may be restricted.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Dar al-Hajar (Rock Palace)",
+                        "description": "Visit the iconic palace built atop a rock, showcasing traditional Yemeni architecture. Atlas Obscura",
+                        "travelerType": "Architecture Aficionados",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$20",
+                        "budgetDetails": "$10-20",
+                        "tips": "Check opening hours in advance; photography is allowed.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Local Food Tour",
+                        "description": "Sample Yemeni delicacies like Mandi, Fahsa, and Bint Al Sahn on a guided food tour.",
+                        "travelerType": "Foodies",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$50",
+                        "budgetDetails": "$20-50",
+                        "tips": "Try small portions to experience a variety of dishes; ask locals for their favorite spots.",
+                        "familyFriendly": "Yes",
+                        "category": "Foodies"
+                    },
+                    {
+                        "activity": "Old City of Sana'a",
+                        "description": "Wander through one of the oldest continuously inhabited cities, featuring unique architecture and vibrant markets. Tripadvisor",
+                        "travelerType": "Culture Enthusiasts",
+                        "duration": "1-2 days",
+                        "budgetUSD": "$150",
+                        "budgetDetails": "$50-150",
+                        "tips": "Dress modestly and respect local customs; consider visiting during cultural festivals.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Al Saleh Mosque",
+                        "description": "Visit the largest mosque in Yemen, known for its impressive architecture. Trip.com",
+                        "travelerType": "Architecture Aficionados",
+                        "duration": "1-2 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Non-Muslim visitors should check visiting hours and dress codes.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Bab al-Yemen",
+                        "description": "Explore the historic gate and entrance to the old city, bustling with markets. Tripadvisor",
+                        "travelerType": "Shoppers",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Great place for purchasing souvenirs; practice bargaining.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Al Saleh Mosque",
+                        "description": "Marvel at Yemen's largest mosque, featuring intricate Islamic architecture and peaceful courtyards.",
+                        "travelerType": "Architecture Aficionados",
+                        "duration": "1-2 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Non-Muslim visitors may need to check visiting hours and dress modestly.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al Fakher",
@@ -61929,7 +62077,30 @@
             },
             {
                 "name": "Shibam",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "Visit Shibam",
+                        "description": "Explore the \"Manhattan of the Desert,\" known for its mudbrick high-rise buildings. Atlas Obscura",
+                        "travelerType": "History Buffs",
+                        "duration": "1 day",
+                        "budgetUSD": "$100",
+                        "budgetDetails": "$50-100",
+                        "tips": "Hire a local guide to learn about the city's history and architecture.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Shibam Fortress",
+                        "description": "Explore the historic fortress that overlooks the \"Manhattan of the Desert.\"",
+                        "travelerType": "History Buffs",
+                        "duration": "1-2 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Combine this with a visit to the nearby old city for a fuller experience.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al Hadaf",
@@ -62008,7 +62179,140 @@
             },
             {
                 "name": "Socotra Island",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "Dragon Blood Trees",
+                        "description": "Witness the unique and endemic Dragon Blood Trees, a symbol of Socotra. Atlas Obscura",
+                        "travelerType": "Nature Lovers",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$50",
+                        "budgetDetails": "$20-50",
+                        "tips": "Guided tours recommended to learn about the ecology and significance.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Homhil Protected Area",
+                        "description": "Hike through this area famous for its natural pools, Dragon Blood Trees, and stunning vistas.",
+                        "travelerType": "Nature Lovers",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$50",
+                        "budgetDetails": "$20-50",
+                        "tips": "Wear sturdy shoes and bring water for the hike.",
+                        "familyFriendly": "Yes",
+                        "category": "Adventurers"
+                    },
+                    {
+                        "activity": "Dixam Plateau",
+                        "description": "Trek through this elevated region with breathtaking landscapes and endemic flora, including Dragon Blood Trees.",
+                        "travelerType": "Nature Lovers",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$50",
+                        "budgetDetails": "$20-50",
+                        "tips": "Guided tours recommended to ensure a safe and informative experience.",
+                        "familyFriendly": "Yes",
+                        "category": "Explorers"
+                    },
+                    {
+                        "activity": "Kalysan Canyon",
+                        "description": "Explore this striking canyon with dramatic cliffs and unique vegetation.",
+                        "travelerType": "Adventure Seekers",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$50",
+                        "budgetDetails": "$20-50",
+                        "tips": "Wear sturdy hiking shoes and bring water.",
+                        "familyFriendly": "Yes",
+                        "category": "Adventurers"
+                    },
+                    {
+                        "activity": "Qalansiyah Beach",
+                        "description": "Relax on pristine white sands and enjoy clear turquoise waters. Tripadvisor",
+                        "travelerType": "Beach Lovers",
+                        "duration": "1 day",
+                        "budgetUSD": "$100",
+                        "budgetDetails": "$50-100",
+                        "tips": "Ideal for swimming and picnicking; bring necessary supplies as facilities are limited.",
+                        "familyFriendly": "Yes",
+                        "category": "Adventurers"
+                    },
+                    {
+                        "activity": "Shoab Beach",
+                        "description": "Visit this secluded beach with crystal-clear waters, perfect for snorkeling and relaxation.",
+                        "travelerType": "Beach Lovers",
+                        "duration": "Full day",
+                        "budgetUSD": "$100",
+                        "budgetDetails": "$50-100",
+                        "tips": "Accessible by boat; pack your essentials as amenities are minimal.",
+                        "familyFriendly": "Yes",
+                        "category": "Adventurers"
+                    },
+                    {
+                        "activity": "Diksam Camping Experience",
+                        "description": "Enjoy camping in the highlands under a canopy of stars, surrounded by Socotra’s unique landscapes.",
+                        "travelerType": "Adventure Seekers",
+                        "duration": "Overnight",
+                        "budgetUSD": "$100",
+                        "budgetDetails": "$50-100",
+                        "tips": "Book through a reputable tour operator; bring warm clothing for cool nights.",
+                        "familyFriendly": "Yes",
+                        "category": "Newbies"
+                    },
+                    {
+                        "activity": "Snorkeling at Ras Qatanib",
+                        "description": "Discover colorful coral reefs and marine life in the pristine waters of Ras Qatanib.",
+                        "travelerType": "Adventure Seekers",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$100",
+                        "budgetDetails": "$50-100",
+                        "tips": "Equipment rental may be available; follow conservation rules to protect marine life.",
+                        "familyFriendly": "Yes",
+                        "category": "Adventurers"
+                    },
+                    {
+                        "activity": "Dihamri Marine Protected Area",
+                        "description": "Snorkel and dive to see vibrant coral reefs and marine life. Atlas Obscura",
+                        "travelerType": "Adventure Seekers",
+                        "duration": "1 day",
+                        "budgetUSD": "$150",
+                        "budgetDetails": "$100-150",
+                        "tips": "Bring your own equipment; ensure to follow conservation guidelines.",
+                        "familyFriendly": "Yes",
+                        "category": "Adventurers"
+                    },
+                    {
+                        "activity": "Explore Socotra Island",
+                        "description": "Discover unique flora and fauna on this UNESCO World Heritage site, often referred to as the \"Galápagos of the Indian Ocean.\" Atlas Obscura",
+                        "travelerType": "Nature Lovers",
+                        "duration": "2-3 days",
+                        "budgetUSD": "$500",
+                        "budgetDetails": "$200-500",
+                        "tips": "Best visited between October and April; arrange guided tours in advance.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Arher Beach",
+                        "description": "Witness the unique landscape of sand dunes meeting the sea, offering great opportunities for photography and sandboarding.",
+                        "travelerType": "Adventure Seekers",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Best visited during the late afternoon for cooler weather and stunning sunsets.",
+                        "familyFriendly": "Yes",
+                        "category": "Adventurers"
+                    },
+                    {
+                        "activity": "Detwah Lagoon",
+                        "description": "Relax at this serene lagoon with turquoise waters and abundant birdlife, perfect for nature enthusiasts.",
+                        "travelerType": "Nature Lovers",
+                        "duration": "1-2 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "A great spot for birdwatching; bring binoculars for a closer look.",
+                        "familyFriendly": "Yes",
+                        "category": "Adventurers"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al-Bahr Kitchen",
@@ -62087,7 +62391,30 @@
             },
             {
                 "name": "Taiz",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "Cairo Castle",
+                        "description": "Explore this ancient fortress offering panoramic views of the city and surrounding landscape.",
+                        "travelerType": "History Buffs",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$10",
+                        "budgetDetails": "$5-10",
+                        "tips": "Check opening hours and bring water for the climb.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Al Janad Mosque",
+                        "description": "Visit one of the oldest mosques in Yemen, known for its historical and religious significance.",
+                        "travelerType": "Culture Enthusiasts",
+                        "duration": "1 hour",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Open during non-prayer times; dress modestly to show respect.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al Shaibani",
@@ -62237,7 +62564,19 @@
             },
             {
                 "name": "Tarim",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "Explore Tarim",
+                        "description": "Known for its numerous mosques and as a center of Islamic learning. LoyalTrips",
+                        "travelerType": "Culture Enthusiasts",
+                        "duration": "1 day",
+                        "budgetUSD": "$100",
+                        "budgetDetails": "$50-100",
+                        "tips": "Dress modestly; visiting during religious festivals can be enriching.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al Nour",
@@ -62266,7 +62605,30 @@
             },
             {
                 "name": "Zabid",
-                "activities": [],
+                "activities": [
+                    {
+                        "activity": "Historic Town of Zabid",
+                        "description": "Discover the UNESCO-listed town known for its Islamic architecture and history. Atlas Obscura",
+                        "travelerType": "Culture Enthusiasts",
+                        "duration": "1 day",
+                        "budgetUSD": "$100",
+                        "budgetDetails": "$50-100",
+                        "tips": "Respect local customs; consider hiring a guide for historical insights.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Great Mosque of Zabid",
+                        "description": "Visit one of Yemen's oldest mosques, which played a significant role in Islamic education.",
+                        "travelerType": "Culture Enthusiasts",
+                        "duration": "1-2 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Respectful attire is required; guided tours enhance the experience.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    }
+                ],
                 "restaurants": [
                     {
                         "name": "Al Nour",
@@ -62289,6 +62651,77 @@
                         "suitability": "Couples"
                     }
                 ],
+                "dishes": [],
+                "accommodations": [],
+                "scams": []
+            },
+            {
+                "name": "Al Mahrah Region",
+                "activities": [
+                    {
+                        "activity": "Hawf Protected Area",
+                        "description": "Explore this unique biodiversity hotspot near the Oman border, featuring lush greenery and rare wildlife.",
+                        "travelerType": "Nature Lovers",
+                        "duration": "2-3 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Best visited during the Khareef season (monsoon) for lush landscapes.",
+                        "familyFriendly": "Yes",
+                        "category": "Newbies"
+                    }
+                ],
+                "restaurants": [],
+                "dishes": [],
+                "accommodations": [],
+                "scams": []
+            },
+            {
+                "name": "Haraz Mountains",
+                "activities": [
+                    {
+                        "activity": "Hiking in Haraz Mountains",
+                        "description": "Trek through terraced landscapes and traditional villages. CSO Yemen",
+                        "travelerType": "Adventure Seekers",
+                        "duration": "1-2 days",
+                        "budgetUSD": "$200",
+                        "budgetDetails": "$100-200",
+                        "tips": "Hire a local guide; best visited during cooler months.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    },
+                    {
+                        "activity": "Al Hutaib Village",
+                        "description": "Discover this picturesque village nestled in the Haraz Mountains, offering stunning views and traditional architecture.",
+                        "travelerType": "Culture Enthusiasts",
+                        "duration": "1-2 hours",
+                        "budgetUSD": "$0",
+                        "budgetDetails": "Free",
+                        "tips": "Best visited during the cooler months for comfortable hiking.",
+                        "familyFriendly": "Yes",
+                        "category": "History Buff"
+                    }
+                ],
+                "restaurants": [],
+                "dishes": [],
+                "accommodations": [],
+                "scams": []
+            },
+            {
+                "name": "Shaharah",
+                "activities": [
+                    {
+                        "activity": "Shaharah Bridge",
+                        "description": "Visit the stone bridge connecting mountains, offering stunning views and engineering marvel. Atlas Obscura",
+                        "travelerType": "Adventure Seekers",
+                        "duration": "1 day",
+                        "budgetUSD": "$150",
+                        "budgetDetails": "$100-150",
+                        "tips": "Accessible via a challenging hike; ensure physical readiness.",
+                        "familyFriendly": "Yes",
+                        "category": "Newbies"
+                    }
+                ],
+                "restaurants": [],
                 "dishes": [],
                 "accommodations": [],
                 "scams": []
@@ -80602,527 +81035,6 @@
                         "budgetUSD": "$0",
                         "budgetDetails": "Free",
                         "tips": "Explore the charming fishing village and ancient sites.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            }
-        ]
-    },
-    {
-        "countryName": "Yamen",
-        "Seasonal": [],
-        "Transportation": [],
-        "Visa": [],
-        "cities": [
-            {
-                "name": "Aden",
-                "activities": [
-                    {
-                        "activity": "Cisterns of Tawila",
-                        "description": "Explore ancient water reservoirs that have supplied the city for centuries. Atlas Obscura",
-                        "travelerType": "History Buffs",
-                        "duration": "1-2 hours",
-                        "budgetUSD": "$10",
-                        "budgetDetails": "$5-10",
-                        "tips": "Visit early in the morning to avoid crowds and heat.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Tawila Tanks",
-                        "description": "Explore the ancient water reservoirs, also known as the Cisterns of Aden, built to collect and store rainwater.",
-                        "travelerType": "History Buffs",
-                        "duration": "1-2 hours",
-                        "budgetUSD": "$10",
-                        "budgetDetails": "$5-10",
-                        "tips": "Best visited early morning to avoid the heat.",
-                        "familyFriendly": "Yes",
-                        "category": "Explorers"
-                    },
-                    {
-                        "activity": "Aden Beach",
-                        "description": "Relax on the sandy shores and enjoy the coastal ambiance of this historical port city.",
-                        "travelerType": "Beach Lovers",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Bring sunscreen and refreshments as facilities might be limited.",
-                        "familyFriendly": "Yes",
-                        "category": "Newbies"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Al Hudaydah",
-                "activities": [
-                    {
-                        "activity": "Culinary Experience at JUNEED",
-                        "description": "Indulge in traditional Yemeni cuisine at this local restaurant. Evendo",
-                        "travelerType": "Foodies",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$30",
-                        "budgetDetails": "$20-30",
-                        "tips": "Try local dishes like Saltah and Fahsa; check for opening hours.",
-                        "familyFriendly": "Yes",
-                        "category": "Foodies"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Al Mahrah Region",
-                "activities": [
-                    {
-                        "activity": "Hawf Protected Area",
-                        "description": "Explore this unique biodiversity hotspot near the Oman border, featuring lush greenery and rare wildlife.",
-                        "travelerType": "Nature Lovers",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Best visited during the Khareef season (monsoon) for lush landscapes.",
-                        "familyFriendly": "Yes",
-                        "category": "Newbies"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Hadhramaut Region",
-                "activities": [
-                    {
-                        "activity": "Wadi Dawan",
-                        "description": "Explore the valley known for its dramatic cliffs and mudbrick villages, including Haid Al-Jazil.",
-                        "travelerType": "History Buffs",
-                        "duration": "Full day",
-                        "budgetUSD": "$100",
-                        "budgetDetails": "$50-100",
-                        "tips": "Hire a guide to navigate and learn about the region's history.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Haraz Mountains",
-                "activities": [
-                    {
-                        "activity": "Hiking in Haraz Mountains",
-                        "description": "Trek through terraced landscapes and traditional villages. CSO Yemen",
-                        "travelerType": "Adventure Seekers",
-                        "duration": "1-2 days",
-                        "budgetUSD": "$200",
-                        "budgetDetails": "$100-200",
-                        "tips": "Hire a local guide; best visited during cooler months.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Al Hutaib Village",
-                        "description": "Discover this picturesque village nestled in the Haraz Mountains, offering stunning views and traditional architecture.",
-                        "travelerType": "Culture Enthusiasts",
-                        "duration": "1-2 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Best visited during the cooler months for comfortable hiking.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Marib",
-                "activities": [
-                    {
-                        "activity": "Marib Dam",
-                        "description": "Visit the ancient dam site, a testament to Yemen’s engineering heritage and a key source of irrigation in ancient times.",
-                        "travelerType": "History Buffs",
-                        "duration": "1-2 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Combine with other historical sites in Marib for a fuller experience.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Sana'a",
-                "activities": [
-                    {
-                        "activity": "National Museum of Yemen",
-                        "description": "Learn about Yemen's rich history and cultural heritage. Tripadvisor",
-                        "travelerType": "History Buffs",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$10",
-                        "budgetDetails": "$5-10",
-                        "tips": "Check for any restoration works; photography may be restricted.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Dar al-Hajar (Rock Palace)",
-                        "description": "Visit the iconic palace built atop a rock, showcasing traditional Yemeni architecture. Atlas Obscura",
-                        "travelerType": "Architecture Aficionados",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$20",
-                        "budgetDetails": "$10-20",
-                        "tips": "Check opening hours in advance; photography is allowed.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Local Food Tour",
-                        "description": "Sample Yemeni delicacies like Mandi, Fahsa, and Bint Al Sahn on a guided food tour.",
-                        "travelerType": "Foodies",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$50",
-                        "budgetDetails": "$20-50",
-                        "tips": "Try small portions to experience a variety of dishes; ask locals for their favorite spots.",
-                        "familyFriendly": "Yes",
-                        "category": "Foodies"
-                    },
-                    {
-                        "activity": "Old City of Sana'a",
-                        "description": "Wander through one of the oldest continuously inhabited cities, featuring unique architecture and vibrant markets. Tripadvisor",
-                        "travelerType": "Culture Enthusiasts",
-                        "duration": "1-2 days",
-                        "budgetUSD": "$150",
-                        "budgetDetails": "$50-150",
-                        "tips": "Dress modestly and respect local customs; consider visiting during cultural festivals.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Al Saleh Mosque",
-                        "description": "Visit the largest mosque in Yemen, known for its impressive architecture. Trip.com",
-                        "travelerType": "Architecture Aficionados",
-                        "duration": "1-2 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Non-Muslim visitors should check visiting hours and dress codes.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Bab al-Yemen",
-                        "description": "Explore the historic gate and entrance to the old city, bustling with markets. Tripadvisor",
-                        "travelerType": "Shoppers",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Great place for purchasing souvenirs; practice bargaining.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Al Saleh Mosque",
-                        "description": "Marvel at Yemen's largest mosque, featuring intricate Islamic architecture and peaceful courtyards.",
-                        "travelerType": "Architecture Aficionados",
-                        "duration": "1-2 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Non-Muslim visitors may need to check visiting hours and dress modestly.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Shaharah",
-                "activities": [
-                    {
-                        "activity": "Shaharah Bridge",
-                        "description": "Visit the stone bridge connecting mountains, offering stunning views and engineering marvel. Atlas Obscura",
-                        "travelerType": "Adventure Seekers",
-                        "duration": "1 day",
-                        "budgetUSD": "$150",
-                        "budgetDetails": "$100-150",
-                        "tips": "Accessible via a challenging hike; ensure physical readiness.",
-                        "familyFriendly": "Yes",
-                        "category": "Newbies"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Shibam",
-                "activities": [
-                    {
-                        "activity": "Visit Shibam",
-                        "description": "Explore the \"Manhattan of the Desert,\" known for its mudbrick high-rise buildings. Atlas Obscura",
-                        "travelerType": "History Buffs",
-                        "duration": "1 day",
-                        "budgetUSD": "$100",
-                        "budgetDetails": "$50-100",
-                        "tips": "Hire a local guide to learn about the city's history and architecture.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Shibam Fortress",
-                        "description": "Explore the historic fortress that overlooks the \"Manhattan of the Desert.\"",
-                        "travelerType": "History Buffs",
-                        "duration": "1-2 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Combine this with a visit to the nearby old city for a fuller experience.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Socotra Island",
-                "activities": [
-                    {
-                        "activity": "Dragon Blood Trees",
-                        "description": "Witness the unique and endemic Dragon Blood Trees, a symbol of Socotra. Atlas Obscura",
-                        "travelerType": "Nature Lovers",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$50",
-                        "budgetDetails": "$20-50",
-                        "tips": "Guided tours recommended to learn about the ecology and significance.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Homhil Protected Area",
-                        "description": "Hike through this area famous for its natural pools, Dragon Blood Trees, and stunning vistas.",
-                        "travelerType": "Nature Lovers",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$50",
-                        "budgetDetails": "$20-50",
-                        "tips": "Wear sturdy shoes and bring water for the hike.",
-                        "familyFriendly": "Yes",
-                        "category": "Adventurers"
-                    },
-                    {
-                        "activity": "Dixam Plateau",
-                        "description": "Trek through this elevated region with breathtaking landscapes and endemic flora, including Dragon Blood Trees.",
-                        "travelerType": "Nature Lovers",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$50",
-                        "budgetDetails": "$20-50",
-                        "tips": "Guided tours recommended to ensure a safe and informative experience.",
-                        "familyFriendly": "Yes",
-                        "category": "Explorers"
-                    },
-                    {
-                        "activity": "Kalysan Canyon",
-                        "description": "Explore this striking canyon with dramatic cliffs and unique vegetation.",
-                        "travelerType": "Adventure Seekers",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$50",
-                        "budgetDetails": "$20-50",
-                        "tips": "Wear sturdy hiking shoes and bring water.",
-                        "familyFriendly": "Yes",
-                        "category": "Adventurers"
-                    },
-                    {
-                        "activity": "Qalansiyah Beach",
-                        "description": "Relax on pristine white sands and enjoy clear turquoise waters. Tripadvisor",
-                        "travelerType": "Beach Lovers",
-                        "duration": "1 day",
-                        "budgetUSD": "$100",
-                        "budgetDetails": "$50-100",
-                        "tips": "Ideal for swimming and picnicking; bring necessary supplies as facilities are limited.",
-                        "familyFriendly": "Yes",
-                        "category": "Adventurers"
-                    },
-                    {
-                        "activity": "Shoab Beach",
-                        "description": "Visit this secluded beach with crystal-clear waters, perfect for snorkeling and relaxation.",
-                        "travelerType": "Beach Lovers",
-                        "duration": "Full day",
-                        "budgetUSD": "$100",
-                        "budgetDetails": "$50-100",
-                        "tips": "Accessible by boat; pack your essentials as amenities are minimal.",
-                        "familyFriendly": "Yes",
-                        "category": "Adventurers"
-                    },
-                    {
-                        "activity": "Diksam Camping Experience",
-                        "description": "Enjoy camping in the highlands under a canopy of stars, surrounded by Socotra’s unique landscapes.",
-                        "travelerType": "Adventure Seekers",
-                        "duration": "Overnight",
-                        "budgetUSD": "$100",
-                        "budgetDetails": "$50-100",
-                        "tips": "Book through a reputable tour operator; bring warm clothing for cool nights.",
-                        "familyFriendly": "Yes",
-                        "category": "Newbies"
-                    },
-                    {
-                        "activity": "Snorkeling at Ras Qatanib",
-                        "description": "Discover colorful coral reefs and marine life in the pristine waters of Ras Qatanib.",
-                        "travelerType": "Adventure Seekers",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$100",
-                        "budgetDetails": "$50-100",
-                        "tips": "Equipment rental may be available; follow conservation rules to protect marine life.",
-                        "familyFriendly": "Yes",
-                        "category": "Adventurers"
-                    },
-                    {
-                        "activity": "Dihamri Marine Protected Area",
-                        "description": "Snorkel and dive to see vibrant coral reefs and marine life. Atlas Obscura",
-                        "travelerType": "Adventure Seekers",
-                        "duration": "1 day",
-                        "budgetUSD": "$150",
-                        "budgetDetails": "$100-150",
-                        "tips": "Bring your own equipment; ensure to follow conservation guidelines.",
-                        "familyFriendly": "Yes",
-                        "category": "Adventurers"
-                    },
-                    {
-                        "activity": "Explore Socotra Island",
-                        "description": "Discover unique flora and fauna on this UNESCO World Heritage site, often referred to as the \"Galápagos of the Indian Ocean.\" Atlas Obscura",
-                        "travelerType": "Nature Lovers",
-                        "duration": "2-3 days",
-                        "budgetUSD": "$500",
-                        "budgetDetails": "$200-500",
-                        "tips": "Best visited between October and April; arrange guided tours in advance.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Arher Beach",
-                        "description": "Witness the unique landscape of sand dunes meeting the sea, offering great opportunities for photography and sandboarding.",
-                        "travelerType": "Adventure Seekers",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Best visited during the late afternoon for cooler weather and stunning sunsets.",
-                        "familyFriendly": "Yes",
-                        "category": "Adventurers"
-                    },
-                    {
-                        "activity": "Detwah Lagoon",
-                        "description": "Relax at this serene lagoon with turquoise waters and abundant birdlife, perfect for nature enthusiasts.",
-                        "travelerType": "Nature Lovers",
-                        "duration": "1-2 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "A great spot for birdwatching; bring binoculars for a closer look.",
-                        "familyFriendly": "Yes",
-                        "category": "Adventurers"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Taiz",
-                "activities": [
-                    {
-                        "activity": "Cairo Castle",
-                        "description": "Explore this ancient fortress offering panoramic views of the city and surrounding landscape.",
-                        "travelerType": "History Buffs",
-                        "duration": "2-3 hours",
-                        "budgetUSD": "$10",
-                        "budgetDetails": "$5-10",
-                        "tips": "Check opening hours and bring water for the climb.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Al Janad Mosque",
-                        "description": "Visit one of the oldest mosques in Yemen, known for its historical and religious significance.",
-                        "travelerType": "Culture Enthusiasts",
-                        "duration": "1 hour",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Open during non-prayer times; dress modestly to show respect.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Tarim",
-                "activities": [
-                    {
-                        "activity": "Explore Tarim",
-                        "description": "Known for its numerous mosques and as a center of Islamic learning. LoyalTrips",
-                        "travelerType": "Culture Enthusiasts",
-                        "duration": "1 day",
-                        "budgetUSD": "$100",
-                        "budgetDetails": "$50-100",
-                        "tips": "Dress modestly; visiting during religious festivals can be enriching.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    }
-                ],
-                "restaurants": [],
-                "dishes": [],
-                "accommodations": [],
-                "scams": []
-            },
-            {
-                "name": "Zabid",
-                "activities": [
-                    {
-                        "activity": "Historic Town of Zabid",
-                        "description": "Discover the UNESCO-listed town known for its Islamic architecture and history. Atlas Obscura",
-                        "travelerType": "Culture Enthusiasts",
-                        "duration": "1 day",
-                        "budgetUSD": "$100",
-                        "budgetDetails": "$50-100",
-                        "tips": "Respect local customs; consider hiring a guide for historical insights.",
-                        "familyFriendly": "Yes",
-                        "category": "History Buff"
-                    },
-                    {
-                        "activity": "Great Mosque of Zabid",
-                        "description": "Visit one of Yemen's oldest mosques, which played a significant role in Islamic education.",
-                        "travelerType": "Culture Enthusiasts",
-                        "duration": "1-2 hours",
-                        "budgetUSD": "$0",
-                        "budgetDetails": "Free",
-                        "tips": "Respectful attire is required; guided tours enhance the experience.",
                         "familyFriendly": "Yes",
                         "category": "History Buff"
                     }
